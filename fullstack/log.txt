@@ -1,0 +1,2 @@
+mkdir gif-activity
+touch main.go
